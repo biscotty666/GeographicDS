@@ -1,0 +1,11 @@
+**/.ipynb_checkpoints
+docs/__pycache__
+**/cache
+_build
+data
+src
+.virtual_documents
+.envrc
+.direnv
+secrets.py
+docs/key.py
